@@ -1,4 +1,11 @@
-export default function Button(props) {
-    const { title } = props;
-    return  <button>{title}</button>;
-}
+import { ButtonContainer } from './styles';
+
+const Button = ({label, onClick}) => {
+    return ( 
+      <ButtonContainer onClick={onClick}>
+        {label}
+      </ButtonContainer>
+    );
+  }
+  
+  export default Button;
