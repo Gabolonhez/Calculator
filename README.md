@@ -1,4 +1,4 @@
-# Calculator
+# Calculadora
 ![image](https://github.com/user-attachments/assets/0456293c-f4c4-4923-be29-5cd7cf3a756c)
 
 ## 📑 Descrição
