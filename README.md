@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/0456293c-f4c4-4923-be29-5cd7cf3a756c)
 
 ## 📑 Descrição
-Emulador de calculadora básica.
+Emulador de uma calculadora básica.
 
 ## 🎯 Funcionalidades
 - [x] : Permite realizar cálculos básicos, como multiplicação, divisão, adição e subtração.
